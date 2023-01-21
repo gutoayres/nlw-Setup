@@ -18,7 +18,7 @@ NLW setup é um evento exclusivo e gratuito, promovido pela Rocketseat para ensi
 <br>
 
 <p align="center">
-  <img alt="projeto Habits" src="github/preview.jpg" width="100%">
+  <img alt="projeto Habits" src="https://github.com/gutoayres/nlw-setup/blob/main/.github/preview.jpg" width="100%">
 </p>
  
 ## 🚀 Tecnologias
